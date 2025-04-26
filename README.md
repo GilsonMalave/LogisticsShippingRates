@@ -1,20 +1,19 @@
-# LogisticsShippingRates
-Tenga en cuenta los siguientes factores al contribuir:
+Please consider the below factors while contributing
 
-Estilo del código:
-Mantenga un estilo de código consistente para facilitar la lectura.
+Code Style:
+Maintain a consistent code style for readability.
 
-Documentación:
-Asegúrese de que el código esté bien documentado para una colaboración eficaz.
+Documentation:
+Ensure well-documented code for effective collaboration.
 
-Pruebas:
-Pruebe exhaustivamente sus cambios antes de enviar una solicitud de incorporación de cambios.
+Testing:
+Thoroughly test your changes before submitting a pull request.
 
-Seguimiento de incidencias:
-Consulte el Seguimiento de incidencias para ver las tareas.
+Issue Tracker:
+Check the Issue Tracker for tasks.
 
-Revisión del código:
-Todas las contribuciones se someten a un proceso de revisión del código.
+Code Review:
+All contributions undergo a code review process.
 
-Licencias:
-Las contribuciones tienen licencia.
+Licensing:
+Contributions are licensed.
